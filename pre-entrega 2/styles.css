@@ -2,7 +2,13 @@ p
 {
     color: black;
     text-align: center;
+    font-size: 15px
 
+}
+
+.container-fluid
+{
+    grid-gap: 5px;
 }
 
 
